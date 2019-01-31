@@ -27,6 +27,6 @@
   "homepage": "https://github.com/angyvolin/gulp-penthouse#readme",
   "dependencies": {
     "gulp-util": "^3.0.8",
-    "penthouse": "~0.10.9"
+    "penthouse": "latest"
   }
 }
